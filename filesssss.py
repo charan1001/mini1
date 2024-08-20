@@ -1,0 +1,1 @@
+a=open('file_name.ext,')
